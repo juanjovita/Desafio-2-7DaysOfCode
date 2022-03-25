@@ -6,3 +6,11 @@
 body {
   background: orange;
 }
+
+section{
+  border: 1px solid red;
+  width: 100%;
+  height: 500px;
+  align-items: center;
+}
+
